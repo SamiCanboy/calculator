@@ -16,7 +16,7 @@ body{
     background-color:rgb(71, 47, 25);
 }
 .ekrandiv{
-    background-color:rgba(255, 252, 213, 0.623);
+    background-color:rgba(255, 252, 213, 0.63);
     border: 2px black solid;
     border-radius: 30px;
     margin-bottom: 5%;
@@ -40,7 +40,7 @@ button.h1{
     
 }
 button:hover{
-    background-color: rgb(127, 141, 141);
+    background-color: rgb(69, 74, 74);
 }
 .row1,.row2,.row3,.row4,.row5{
     grid-column: 1;
